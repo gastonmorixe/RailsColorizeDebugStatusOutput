@@ -7,7 +7,7 @@
 
 ## Usage
 
-Create an initializer with log_formatter.rb content
-
-Done!
+1. Add ````gem 'colorize'```` to your Gemfile
+2. Create an initializer with log_formatter.rb content
+3. Done!
 
